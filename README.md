@@ -3,7 +3,7 @@ A simple JS Snake Game
 
 ### Objetivo  
  
- Projeto  desenvolvido  no Bootcamp HTML WEB DEVELOPER , da  Digital Innovation One  e feito em equipe  com  Gabrila Pinheir .
+ Projeto  desenvolvido  no Bootcamp HTML WEB DEVELOPER , da  Digital Innovation One  e feito em equipe  com  Gabrila Pinheiro .
 Onde  foi  dada  a proposta de  recriar  o  famoso  jogo  da  cobrinha ,no qual  enquanto mais ela come fica  maior. Desenvolvido  com  HTML5, CSS3 E  JAVASCRIPT.
  
 ### Captura de tela do projeto
